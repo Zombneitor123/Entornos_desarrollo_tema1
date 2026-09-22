@@ -1,4 +1,4 @@
-Manuel Bono Torres
+
 
 # Tarea: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
