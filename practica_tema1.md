@@ -1,4 +1,4 @@
-
+Manuel Bono--- Compañeros
 
 # Tarea: Reconocimiento de Elementos en el Desarrollo de un Programa Informático
 
